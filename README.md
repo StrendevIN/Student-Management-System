@@ -73,9 +73,10 @@ Created by **HKS**
 
 ##  Connect & Support
 
-- **GitHub:** [Stren-Dev](https://github.com/StrendevIN)
+- **GitHub:** [StrendevIN](https://github.com/StrendevIN)
 - **LinkedIn:** [StrenDev](https://www.linkedin.com/company/strendev/)
 
 ---
 
 *If you have any problems or questions, join our community!*
+
